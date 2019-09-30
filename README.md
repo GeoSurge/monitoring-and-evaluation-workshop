@@ -18,5 +18,8 @@ Geospatial Tools for Monitoring and Evaluating Peacebuilding Programs
 - [Two Minute Tutorials: What is a Mapathon?](https://youtu.be/pAcsCmvG2hs)
 - [Two Minute Tutorials: How to host an OpenStreetMap mapathon](https://youtu.be/njxePdKn1pI)
 
+# Program Design:
+- [Designing for Results](https://www.sfcg.org/Documents/manualpart1.pdf) by [Search for Common Ground](https://www.sfcg.org/)
+
 # Contact
 - Daniel Dufour at daniel@geosurge.io
