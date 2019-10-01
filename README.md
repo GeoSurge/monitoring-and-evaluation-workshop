@@ -1,6 +1,9 @@
 # monitoring-and-evaluation-workshop
 Geospatial Tools for Monitoring and Evaluating Peacebuilding Programs
 
+# Slides
+https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb-T8
+
 # Websites
 - [OpenStreetMap](https://openstreetmap.org)
 - [HOTOSM Tasking Manager](https://tasks.hotosm.org)
@@ -24,3 +27,4 @@ Geospatial Tools for Monitoring and Evaluating Peacebuilding Programs
 
 # Contact
 - Daniel Dufour at daniel@geosurge.io
+
