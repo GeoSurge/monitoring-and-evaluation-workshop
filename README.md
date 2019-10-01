@@ -26,6 +26,10 @@ https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb
 - [ADS Chapter 579](https://www.usaid.gov/ads/policy/500/579)
 - [Rory's ADS 579 Presentation](https://notoncebut2x.github.io/ads579Presentation/#/)
 
+# Other stuff
+- [White Paper on the application of GIS for peace building](https://www.sipri.org/sites/default/files/2017-09/session_report_no_17.pdf)
+- [GIS for a Sustainable Peace (Video from ESRI User Conference 2019)](https://www.esri.com/videos/watch?videoid=eT3ys_9ua4s)
+
 # Contact
 - Daniel Dufour at daniel@geosurge.io
 - Rory Nealon at roryn@creativedc.com
