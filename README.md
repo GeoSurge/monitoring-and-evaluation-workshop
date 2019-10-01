@@ -9,8 +9,6 @@ https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb
 - [HOTOSM Tasking Manager](https://tasks.hotosm.org)
 - [GeoTIFF.io](https://geotiff.io)
 
-# Observable Notebooks
-
 # Request Forms
 - [GeoCenter Imagery Request Form](https://geocenterusaid.org/remotesensing/request.html)
 - [HIU Imagery Request Form](https://hiu.state.gov/imagery/request/)
