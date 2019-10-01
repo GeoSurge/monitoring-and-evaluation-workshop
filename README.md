@@ -32,4 +32,9 @@ https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb
 
 # Contact
 - Daniel Dufour at daniel@geosurge.io
+</br>[![@DanielJDufour](http://i.imgur.com/tXSoThF.png)@DanielJDufour](https://twitter.com/DanielJDufour)
+</br>LinkedIn: https://www.linkedin.com/in/danieljdufour/
+
 - Rory Nealon at roryn@creativedc.com
+</br>[![@notoncebut2x](http://i.imgur.com/tXSoThF.png)@notoncebut2x](https://twitter.com/notoncebut2x)
+</br>LinkedIn: https://www.linkedin.com/in/rorypnealon/
