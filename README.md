@@ -24,7 +24,7 @@ https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb
 # Program Design & Policy
 - [Designing for Results](https://www.sfcg.org/Documents/manualpart1.pdf) by [Search for Common Ground](https://www.sfcg.org/)
 - [ADS Chapter 579](https://www.usaid.gov/ads/policy/500/579)
-- [ADS Presentation](https://notoncebut2x.github.io/ads579Presentation/#/)
+- [Rory's ADS 579 Presentation](https://notoncebut2x.github.io/ads579Presentation/#/)
 
 # Contact
 - Daniel Dufour at daniel@geosurge.io
