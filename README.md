@@ -11,6 +11,7 @@ https://docs.google.com/presentation/d/12Czrd11K2PE8aLVWAAC08d5MmIfOrIG1-3ixIghb
 - [LearnOSM](https://learnosm.org/en/)
 - [Two Minute Tutorials: What is a Mapathon?](https://youtu.be/pAcsCmvG2hs)
 - [Two Minute Tutorials: How to host an OpenStreetMap mapathon](https://youtu.be/njxePdKn1pI)
+- [OSM Mapathon @ Midlands Beer Garden](https://www.eventbrite.com/e/october-validation-mappy-hour-tickets-73110624847)
 
 # Kepler.GL
 - [Making a map in 3 minutes with kepler.gl](https://medium.com/vis-gl/animating-40-years-of-california-earthquakes-e4ffcdd4a289)
